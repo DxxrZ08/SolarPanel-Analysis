@@ -1,0 +1,7 @@
+{
+  "name": "Helios AI: Solar Analytics",
+  "description": "A professional-grade solar energy analysis tool powered by NASA data and Google Gemini AI to calculate potential energy generation and ROI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
